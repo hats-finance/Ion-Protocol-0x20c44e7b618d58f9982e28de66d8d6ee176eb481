@@ -1,0 +1,21 @@
+{
+  "liquidationThresholds": [
+    "0x0",
+    "0x0",
+    "0x0"
+  ],
+  "targetHealth": "0x0",
+  "reserveFactor": "0x0",
+  "maxDiscounts": [
+    "0x0",
+    "0x0",
+    "0x0"
+  ],
+  "ionPool": "0x18eb8AF587dcd7E4F575040F6D800a6B5Cef6CAf",
+  "reserveOracles": [
+    "0xA4aE77554847958aC0854f06601267c9F9C75dfD",
+    "0x7c02b58029beeA7c1FcC872803dC9818f57A0E61",
+    "0x3818eAb6Ca8Bf427222bfACFA706c514145F4104"
+  ],
+  "protocol": "0x0000000000000000000000000000000000000001"
+}
